@@ -32,11 +32,6 @@
 - 🧠 **AI Video Editing Platform (VFXB)**  
   *Collaborated on AI-powered real-time video editing and automation.*  
   Tech: Python, ML APIs, Cloud Deployment
----
-
-## 📊 GitHub Stats
-
-![Suhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaibsiddiqui&show_icons=true&theme=radical)
 
 ---
 
