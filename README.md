@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @Suhaib28
-- 👀 I’m interested in Java and python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects related to problem solving 
-- 📫 How to reach me sasidd11@asu.edu
+# 👋 Hey, I'm Suhaib Ahmad Siddiqui
 
-<!---
-Suhaib28/Suhaib28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Computer Science Undergraduate** at [Arizona State University](https://www.asu.edu)  
+🚀 Passionate about **software development, AI, and cloud computing**  
+🎯 Building interactive **Android** & **web applications** with a focus on accessibility, performance, and user experience
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+`Java` • `Python` • `JavaScript` • `SQL` • `C++`  
+
+**Frameworks & Tools:**  
+`React.js` • `Next.js` • `Node.js` • `Tailwind CSS` • `Android SDK` • `Firebase`  
+
+**Cloud & DevOps:**  
+`AWS` • `GCP` • `Docker` • `Supabase`  
+
+---
+
+## 📌 Featured Projects
+
+- 🎨 **[Mesa Historical Baseball Museum App]**  
+  *Android app integrating rich multimedia content and interactive exhibits.*  
+  Tech: Java, Firebase, XML
+
+- ♿ **[Sayam For All]**  
+  *Web app improving accessibility for users with disabilities.*  
+  Tech: HTML, CSS, JS, Accessibility APIs
+
+- 🧠 **AI Video Editing Platform (VFXB)**  
+  *Collaborated on AI-powered real-time video editing and automation.*  
+  Tech: Python, ML APIs, Cloud Deployment
+---
+
+## 📊 GitHub Stats
+
+![Suhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaibsiddiqui&show_icons=true&theme=radical)
+
+---
+
+## 🌎 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaibsiddiqui)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://suhaibsiddiqui.dev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suhaib.siddiqui@asu.edu)  
+
+---
+
+> “Turning ideas into code, and code into impact.”
